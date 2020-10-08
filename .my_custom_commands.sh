@@ -2,7 +2,7 @@
 
 # Calls create.py, initializes and makes the initial commit from your new directory.
 function create() {
-	cd
+    cd
     source .env
     python3 create.py $1 $2
     cd $FILEPATH$1/$2
