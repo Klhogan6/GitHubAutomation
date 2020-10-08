@@ -8,7 +8,7 @@ The .env file is where you store your username, access token, and your file path
 source ~/.my_custom_commands.sh
 
 # To Run The Script
-The command: create <The directory after your file path> <The name of the new directory>
+The command: 'create <The directory after your file path> <The name of the new directory>'
 
 # ENV File Format:
 USERNAME="YourUsername"
