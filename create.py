@@ -9,6 +9,7 @@ path = os.getenv("FILEPATH")
 username = os.getenv("USERNAME")
 token = os.getenv("TOKEN")
 
+# Creates a new local directory and GitHub repo using two arguments given by the user.
 def create():
     workingDirectory = str(sys.argv[1])
     folderName = str(sys.argv[2])

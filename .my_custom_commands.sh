@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# prints the input
+# Calls create.py, initializes and makes the initial commit from your new directory.
 function create() {
 	cd
     source .env
@@ -12,5 +12,4 @@ function create() {
     git add .
     git commit -m "Initial commit"
     git push origin master
-    code .
 }
