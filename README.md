@@ -1,1 +1,1 @@
-GitHubAutomation
+GitHub Automation Project
