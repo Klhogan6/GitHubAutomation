@@ -16,5 +16,7 @@ To run the script: create "The directory after your file path" "The name of the 
 
 # ENV File Format:
 USERNAME="YourUsername"
+
 TOKEN="YourPersonalAccessTokenFromGitHub"
+
 FILEPATH="/path/to/your/most/used/directory/"
